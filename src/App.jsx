@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import "./App.css";
-import useDebounce from "./use-debounce";
+import { useDebounce } from "./use-debounce";
 
 function App() {
   const [value, setValue] = useState("");
