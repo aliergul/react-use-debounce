@@ -1,8 +1,16 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# React Use Debounce Example
 
-Currently, two official plugins are available:
+Bu projede Vite ile bir React projesi oluşturarak useDebounce mantığını örneklemeye çalıştım. Buradaki amaç yapılan her değişiklikte bir işlemin çalışmamasıydı.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+## 📷 Ekran Görüntüleri
+
+![image](https://github.com/user-attachments/assets/c19c836a-8ef6-4fc9-a764-87c2c34166eb)
+![image](https://github.com/user-attachments/assets/cd5ca83f-64f1-424b-9ae6-d62ddb30bdbe)
+
+
+
+
+
