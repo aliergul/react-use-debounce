@@ -1,7 +1,7 @@
 
 # React Use Debounce Example
 
-Bu projede Vite ile bir React projesi oluşturarak useDebounce mantığını örneklemeye çalıştım. Buradaki amaç yapılan her değişiklikte bir işlemin çalışmamasıydı.
+Bu projede Vite ile bir React projesi oluşturarak *useDebounce* mantığını örneklemeye çalıştım. Buradaki amaç yapılan her değişiklikte bir işlemin çalışmamasıydı.
 
 
 
